@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /*outline:  1px solid rgba(255, 0, 0, 0.2);*/
 }
 
 .container {
@@ -16,10 +15,10 @@
 }
 
 .lottie-progress {
-  width: 100vw;
+  width: 500px;
   height: auto;
   position: fixed;
-  top: 47%;
+  top: 50%;
   right: 50%;
   transform: translate(50%, -50%);
 }

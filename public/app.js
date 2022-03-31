@@ -7,7 +7,7 @@ let lottieProgress = lottie.loadAnimation({
   renderer: "svg",
   loop: false,
   autoplay: false,
-  path: "/animation2.json"
+  path: "/animation.json"
 });
 
 scrollbar.addListener(() => {
