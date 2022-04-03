@@ -15,7 +15,7 @@
 }
 
 .lottie-progress {
-  width: 500px;
+  width: 100vw;
   height: auto;
   position: fixed;
   top: 50%;
