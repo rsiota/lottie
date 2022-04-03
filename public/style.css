@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.container {
+.scroll-element {
   width: 100%;
   height: 100vh;
 }
@@ -14,7 +14,7 @@
   height: 400vh;
 }
 
-.lottie-progress {
+.lottie-animation {
   width: 100vw;
   height: auto;
   position: fixed;
